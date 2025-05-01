@@ -18,7 +18,6 @@ I'm a **full-stack web developer** with a passion for crafting clean, interactiv
 **Tools & Workflow:**
 - Git & GitHub, Vercel, Netlify
 - Figma → Code
-- CI/CD, Agile, Docker (learning!)
 
 ---
 
